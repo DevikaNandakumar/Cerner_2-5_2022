@@ -1,6 +1,5 @@
 <?php
 // cerner_2tothe5th_2022
-
 $i;
 for ($i = 1; $i <= 100; $i++)
 {
