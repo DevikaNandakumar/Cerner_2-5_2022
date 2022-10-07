@@ -1,3 +1,4 @@
+#!/usr/bin/perl
 # cerner_2tothe5th_2022
 
 @days = ("Mon","Tue","Wed");
