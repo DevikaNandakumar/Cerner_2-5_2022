@@ -1,0 +1,10 @@
+// cerner_2tothe5th_2022 
+int fibonacci(int n) {
+  if (n == 0 || n == 1) return n;
+  return fibonacci(n - 1) + fibonacci(n - 2);
+}
+
+void main() {
+    var result = fibonacci(25);
+    print(result);
+}
