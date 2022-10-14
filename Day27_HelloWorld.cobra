@@ -1,6 +1,4 @@
 class HelloWorld
-    """
-    cerner_2tothe5th_2022
-    """
+    # cerner_2tothe5th_2022
     def main
         print 'Hello world!'
